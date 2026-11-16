@@ -1,222 +1,415 @@
 <div align="center">
 
-  <!-- Animated Header Banner -->
+  <!-- Official Organization Animated Banner -->
   <a href="https://zspark.sewedy.com.eg" target="_blank" rel="noopener noreferrer">
     <img src="assets/profile-banner.gif" alt="Z-Spark Tech — Engineering Ideas Into Reality" width="100%" />
   </a>
 
-  <!-- Animated Dynamic Tagline -->
-  <a href="https://zspark.sewedy.com.eg" target="_blank" rel="noopener noreferrer">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1200&color=EE2033&center=true&vCenter=true&width=680&lines=Think+Beyond.+Build+Better.+Spark+Innovation.;Engineering+Solutions+%C2%B7+Developing+Ideas;Turning+Possibilities+Into+Reality;Software+Engineering+%C2%B7+Digital+Products+%C2%B7+Systems" alt="Typing Tagline" />
-  </a>
+  <br /><br />
 
   <p align="center">
     <strong>SOFTWARE ENGINEERING &nbsp;·&nbsp; DIGITAL PRODUCTS &nbsp;·&nbsp; ENTERPRISE SYSTEMS</strong>
   </p>
 
-  <!-- Quick Action & Status Badges -->
+  <p align="center">
+    <em>Think Beyond. Build Better. Spark Innovation.</em>
+  </p>
+
+  <!-- Navigation Badges -->
   <p align="center">
     <a href="https://zspark.sewedy.com.eg" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/Official_Website-zspark.sewedy.com.eg-161b22?style=for-the-badge&logo=googlechrome&logoColor=EE2033&labelColor=0d1117" alt="Website" />
+      <img src="https://img.shields.io/badge/Official_Website-zspark.sewedy.com.eg-161b22?style=flat-square&logo=googlechrome&logoColor=EE2033" alt="Official Website" />
     </a>
+    &nbsp;
     <a href="https://github.com/Z-Spark-Tech" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/GitHub-Organization-161b22?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=0d1117" alt="GitHub Org" />
+      <img src="https://img.shields.io/badge/GitHub-Organization-161b22?style=flat-square&logo=github&logoColor=ffffff" alt="GitHub Organization" />
     </a>
-    <a href="#-what-we-do">
-      <img src="https://img.shields.io/badge/Focus-Engineering_Excellence-EE2033?style=for-the-badge&logo=codewars&logoColor=ffffff&labelColor=161b22" alt="Focus" />
+    &nbsp;
+    <a href="#project-showcase">
+      <img src="https://img.shields.io/badge/Project_Showcase-15_Systems-EE2033?style=flat-square" alt="15 Systems" />
     </a>
-    <a href="#-our-vision">
-      <img src="https://img.shields.io/badge/Impact-Digital_Innovation-161b22?style=for-the-badge&logo=sparkles&logoColor=EE2033&labelColor=0d1117" alt="Innovation" />
+    &nbsp;
+    <a href="#technology-ecosystem">
+      <img src="https://img.shields.io/badge/Stack-.NET_%C2%B7_React_%C2%B7_Next.js-161b22?style=flat-square" alt="Tech Stack" />
     </a>
   </p>
 
-  <img src="assets/divider.svg" width="100%" alt="Divider" />
-
 </div>
 
-<br />
+---
 
-# About Z-Spark Tech
+# Project Showcase
 
-## Who We Are
+We build software across education, enterprise operations, digital products, and developer-focused platforms. Our projects address practical organizational challenges through carefully engineered applications, integrated systems, and intuitive digital experiences.
 
-**Z-Spark Tech** is a technology and software engineering organization driven by innovation, collaboration, and a passion for building impactful digital solutions.
-
-We bring together talented developers, engineers, and technology enthusiasts to design, develop, and maintain software products that address real-world challenges. Our focus goes beyond writing code — we believe in understanding problems, engineering effective solutions, and building systems that deliver long-term value.
-
-We aim to create an environment where creativity meets engineering excellence, ideas become practical products, and collaboration drives continuous growth.
-
-<br />
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="33%" align="center">
-        <h3>💡 Innovation</h3>
-        <p>Exploring modern technologies, creative problem-solving, and building future-ready digital platforms.</p>
-      </td>
-      <td width="33%" align="center">
-        <h3>⚙️ Excellence</h3>
-        <p>Following sound architectural patterns, clean code discipline, and resilient engineering standards.</p>
-      </td>
-      <td width="33%" align="center">
-        <h3>🤝 Growth</h3>
-        <p>Empowering teams through open collaboration, knowledge sharing, and relentless continuous improvement.</p>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br />
-
-<div align="center">
-  <img src="assets/divider.svg" width="100%" alt="Divider" />
-</div>
-
-<br />
-
-## What We Do
-
-We work across multiple areas of software development and technology, including:
-
-<table>
-  <thead>
-    <tr>
-      <th width="35%">Domain</th>
-      <th width="65%">Scope & Capabilities</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>🌐 Web Application Development</strong></td>
-      <td>Building modern, responsive, and scalable web platforms engineered for performance and intuitive user journeys.</td>
-    </tr>
-    <tr>
-      <td><strong>⚡ Backend Engineering</strong></td>
-      <td>Developing robust APIs, business logic, high-throughput databases, and resilient system architectures.</td>
-    </tr>
-    <tr>
-      <td><strong>📱 Mobile Application Development</strong></td>
-      <td>Creating practical, fluid, and user-friendly native and cross-platform mobile experiences.</td>
-    </tr>
-    <tr>
-      <td><strong>🏢 Enterprise & Management Systems</strong></td>
-      <td>Engineering solutions that streamline organizational operations, automate workflows, and improve productivity.</td>
-    </tr>
-    <tr>
-      <td><strong>🎓 Education Technology</strong></td>
-      <td>Developing learning management systems (LMS), examination platforms, assessment tools, and modern educational solutions.</td>
-    </tr>
-    <tr>
-      <td><strong>🔗 System Integration</strong></td>
-      <td>Connecting applications and heterogeneous services through secure APIs, centralized authentication, and reliable integrations.</td>
-    </tr>
-    <tr>
-      <td><strong>☁️ Software Infrastructure</strong></td>
-      <td>Working on deployment automation, performance optimization, database management, security compliance, and system reliability.</td>
-    </tr>
-  </tbody>
-</table>
-
-<br />
-
-### 🧰 Technology Stack & Ecosystem
-
-```text
-  Backend & APIs     ::  C#  |  .NET  |  ASP.NET Core  |  RESTful APIs  |  Microservices
-  Frontend & Mobile  ::  React  |  Angular  |  TypeScript  |  Flutter  |  HTML5 / CSS3
-  Data & Storage     ::  SQL Server  |  PostgreSQL  |  Redis  |  Database Architecture
-  DevOps & Tooling   ::  Docker  |  Git / GitHub Actions  |  CI/CD Pipelines  |  Cloud Platforms
+```
+┌────────────────────────────────────────────────────────────────────────┐
+│                        Z-SPARK TECH ECOSYSTEM                          │
+├──────────────────────────┬─────────────────────────────┬───────────────┤
+│  Education & Academic    │  Enterprise & Operations    │  Products &   │
+│  Technology              │  Systems                    │  Experiences  │
+├──────────────────────────┼─────────────────────────────┼───────────────┤
+│ • Capstone               │ • AdminHub                  │ • Al-Qady     │
+│ • GenZCoders             │ • Employee Attendance (RMS) │ • UI Gallery  │
+│ • Elsewedy Portfolio     │ • TicTrack                  │ • Z-Spark     │
+│ • Attendance             │ • CAS-Login                 │   Portfolio   │
+│ • Admission-System       │                             │               │
+│ • Exam-Hub               │                             │               │
+│ • Assessment             │                             │               │
+│ • SUE (Student Union)    │                             │               │
+└──────────────────────────┴─────────────────────────────┴───────────────┘
 ```
 
-<div align="center">
-  <p>
-    <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
-    <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
-    <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
-    <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-    <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
-    <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-    <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-    <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-  </p>
-</div>
+---
 
-<br />
+## 1. Education & Academic Technology
 
-<div align="center">
-  <img src="assets/divider.svg" width="100%" alt="Divider" />
-</div>
+### 1. Capstone — Academic Project Management System
 
-<br />
+**Overview**  
+A centralized academic project management platform designed to organize and manage the capstone project lifecycle, connecting students, teams, supervisors, and engineering staff.
 
-## Our Approach
+**Key Capabilities**  
+* Manage project teams and their members.
+* Assign tasks, track deadlines, and monitor project progress.
+* Submit project work and support review and resubmission workflows.
+* Generate reports and provide visibility into project activity.
 
-At **Z-Spark Tech**, we believe that great software starts with understanding the problem.
+**Technology Stack:** `React 18` · `Tailwind CSS` · `Chart.js` · `ASP.NET Core 8 Web API` · `Entity Framework Core` · `SQL Server` · `JWT Authentication`
 
-Our engineering approach is built around:
+---
 
-- **🚀 Innovation:** Exploring new technologies and better ways to solve problems.
-- **💎 Engineering Excellence:** Following sound architecture, clean code practices, and maintainable development standards.
-- **🤝 Collaboration:** Working as a team, sharing knowledge, and supporting continuous improvement.
-- **🛡️ Reliability:** Prioritizing performance, security, scalability, and software quality.
-- **📈 Continuous Learning:** Developing our technical capabilities and adapting to an evolving technology landscape.
+### 2. GenZCoders — Learning Management System
 
-<br />
+**Overview**  
+An educational platform designed to organize learning programs, courses, rounds, and learning materials in one environment.
 
-<div align="center">
-  <img src="assets/divider.svg" width="100%" alt="Divider" />
-</div>
+**Key Capabilities**  
+* Organize courses and their associated learning rounds.
+* Structure learning content through weeks and curriculum materials.
+* Support multiple material formats, including PDFs, videos, presentations, and online meeting links.
+* Manage course-related workflows and payment proof submissions.
+* Support local file storage for uploaded materials.
 
-<br />
+**Technology Stack:** `React` · `Vite` · `Material UI` · `Tailwind CSS` · `ASP.NET Core Web API` · `Entity Framework Core` · `SQL Server`
+
+---
+
+### 3. Elsewedy Portfolio — Educational Institution Website
+
+**Overview**  
+A public-facing portfolio website representing ElSewedy International Applied Technology and Software School, providing an organized digital presence for the institution.
+
+**Key Capabilities**  
+* Present the institution's identity and educational profile.
+* Organize institutional information and educational content.
+* Provide visitors with a modern and responsive browsing experience.
+* Showcase the institution through a consistent visual design.
+
+**Technology Stack:** `React` · `Vite` · `Tailwind CSS` · `Cairo and Inter typography`
+
+---
+
+### 4. Attendance — Student Attendance Management System
+
+**Overview**  
+A school attendance management platform designed to record and monitor student attendance and provide organized attendance information for school operations.
+
+**Key Capabilities**  
+* Maintain student attendance records.
+* Track attendance and absence information.
+* Provide attendance logs and reporting capabilities.
+* Support school attendance workflows through a responsive web application.
+
+**Technology Stack:** `React` · `Vite` · `ASP.NET Core 8 Web API` · `Entity Framework Core` · `SQL Server` · `Firebase Admin SDK` · `Progressive Web App (PWA)`
+
+---
+
+### 5. Admission-System — School Admission Platform
+
+**Overview**  
+A digital admission system designed to manage the student application process and support online admission assessments.
+
+**Key Capabilities**  
+* Manage student registration and admission applications.
+* Organize and monitor applicant information and admission statuses.
+* Support timed online admission examinations.
+* Provide access to admission results and administrative workflows.
+* Support role-based administrative operations.
+
+**Technology Stack:** `React 19` · `Vite` · `Tailwind CSS 4` · `Recharts` · `ASP.NET Core 8 Web API` · `Entity Framework Core` · `SQL Server`
+
+---
+
+### 6. Exam-Hub — Online Examination Platform
+
+**Overview**  
+An online examination platform built to support examination management, question organization, student exam sessions, and results within an integrated educational environment.
+
+**Key Capabilities**  
+* Organize examination questions and question-bank data.
+* Manage examination-related workflows.
+* Support student examination sessions and submissions.
+* Process and organize examination results.
+* Integrate with centralized authentication services.
+
+**Technology Stack:** `React` · `Vite` · `ASP.NET Core .NET 9 Web API` · `Entity Framework Core` · `SQL Server` · `ClosedXML` · `CAS Single Sign-On`
+
+---
+
+### 7. Assessment — Digital Assessment Platform
+
+**Overview**  
+A modern digital assessment platform designed to support the organization and delivery of academic assessments through a web-based application.
+
+**Key Capabilities**  
+* Provide a structured environment for assessment-related workflows.
+* Support assessment management and administration.
+* Deliver modern, responsive user interfaces.
+* Organize assessment information and related academic operations.
+
+**Technology Stack:** `Next.js 16` · `React 19` · `Radix UI` · `ASP.NET Core .NET 10` · `Entity Framework Core 10` · `SQL Server`
+
+---
+
+### 8. SUE — Student Union Election System
+
+**Overview**  
+A digital student union election platform designed to organize election activities and support the student voting process.
+
+**Key Capabilities**  
+* Support student union election workflows.
+* Organize election-related information.
+* Provide real-time communication and updates.
+* Support secure application authentication and data management.
+* Facilitate the management of election activities.
+
+**Technology Stack:** `React 18` · `Vite` · `ASP.NET Core 8 Web API` · `SignalR` · `Entity Framework Core` · `SQL Server` · `BCrypt`
+
+---
+
+## 2. Enterprise & Operational Systems
+
+### 9. AdminHub — Administrative Management Platform
+
+**Overview**  
+A centralized administrative platform designed to simplify and organize school management operations through a unified dashboard.
+
+**Key Capabilities**  
+* Manage student information and student accounts.
+* Organize classes and student transfers.
+* Manage admissions and administrative records.
+* Support account and role management.
+* Manage teams and related administrative workflows.
+* Support bulk student data operations through Excel.
+
+**Technology Stack:** `React` · `Vite` · `CSS Design System` · `ASP.NET Core 8 Web API` · `Entity Framework Core` · `SQL Server` · `ClosedXML`
+
+---
+
+### 10. Employee Attendance — Employee Operations System
+
+**Overview**  
+An employee operations platform associated with the organization's RMS environment, supporting employee-related administrative workflows and leave management.
+
+**Key Capabilities**  
+* Organize employee-related operational information.
+* Support employee leave-management workflows.
+* Provide an administrative web interface.
+* Connect employee operations with centralized backend services.
+
+**Technology Stack:** `React` · `Vite` · `Tailwind CSS` · `ASP.NET Core Web API` · `Entity Framework Core` · `SQL Server`
+
+---
+
+### 11. TicTrack — IT Command & Ticket Management System
+
+**Overview**  
+An IT command and management platform designed to organize technical support operations and provide visibility into IT requests and their progress.
+
+**Key Capabilities**  
+* Centralize IT-related requests and operational activities.
+* Support ticket and request tracking.
+* Organize technical support workflows.
+* Provide an operational dashboard for monitoring activities.
+* Connect the web interface with backend services.
+
+**Technology Stack:** `Next.js App Router` · `React` · `Tailwind CSS` · `ASP.NET Core 9 Web API` · `Entity Framework Core`
+
+---
+
+### 12. CAS-Login — Central Authentication Service
+
+**Overview**  
+A centralized authentication platform designed to provide a shared authentication foundation for multiple organizational applications.
+
+**Key Capabilities**  
+* Centralize user authentication.
+* Support Single Sign-On integration across connected systems.
+* Manage accounts and role-based access.
+* Provide authentication services for integrated applications.
+* Reduce the need for separate authentication implementations across systems.
+
+**Technology Stack:** `React` · `Vite` · `ASP.NET Core Web API` · `Entity Framework Core` · `SQL Server` · `JWT Bearer Authentication` · `BCrypt`
+
+---
+
+## 3. Products & Digital Experiences
+
+### 13. Al-Qady — Online Programming Judge
+
+**Overview**  
+A programming and automated judging platform designed to support coding problems, programming submissions, and automated evaluation through an integrated judging environment.
+
+**Key Capabilities**  
+* Organize programming problems and their test cases.
+* Support programming submission and evaluation workflows.
+* Integrate with the DMOJ judging engine.
+* Process test cases and return judging results.
+* Support multiple programming languages through the judging infrastructure.
+* Connect judging operations with dedicated device-side services.
+
+**Technology Stack:** `ASP.NET Core 8` · `React 19` · `TypeScript` · `SQL Server` · `Debian-based DMOJ Judge Adapter` · `.NET 8 Device Agent`
+
+---
+
+### 14. UI Gallery — Interactive UI Components & Data Experiences
+
+**Overview**  
+A frontend-focused project showcasing modern interface development, interactive components, and data-intensive user interface experiences.
+
+**Key Capabilities**  
+* Present interactive frontend interface elements.
+* Explore advanced data grids and table experiences.
+* Support flexible table layouts and data presentation.
+* Demonstrate drag-and-drop interactions.
+* Provide animated and responsive user experiences.
+
+**Technology Stack:** `Next.js 16` · `React 19` · `TypeScript` · `Tailwind CSS 4` · `AG Grid` · `TanStack Table` · `dnd-kit` · `Framer Motion`
+
+---
+
+### 15. Z-Spark Portfolio — Company Portfolio Website
+
+**Overview**  
+The digital portfolio of Z-Spark Tech, designed to represent the organization's identity, software engineering capabilities, and digital work.
+
+**Key Capabilities**  
+* Present the organization's identity and professional profile.
+* Showcase software engineering services and capabilities.
+* Organize project and portfolio information.
+* Provide a modern, responsive digital experience.
+* Maintain a consistent visual identity through motion and interface design.
+
+**Technology Stack:** `Next.js 16` · `React 19` · `TypeScript` · `Tailwind CSS 4` · `Motion` · `Lucide Icons`
+
+---
+
+# Additional Organization Overview
+
+## Our Mission
+
+To transform ideas and real-world challenges into reliable digital solutions through collaborative engineering, innovation, and continuous development.
 
 ## Our Vision
 
-Our vision is to grow into a leading technology organization recognized for engineering meaningful software products, solving complex challenges, and creating opportunities through technology.
+To become a recognized technology organization known for building meaningful software products, engineering reliable systems, and creating lasting value through technology.
 
-We strive to build solutions that make a difference, empower organizations, and contribute to a more connected and technologically advanced future.
+---
 
-> ### *"Building solutions that make a difference, empower organizations, and contribute to a more connected and technologically advanced future."*
+## What We Do
 
-<br />
+Our engineering capabilities span across key software development disciplines:
+
+* **Web Application Development:** Modern, responsive, and scalable web applications engineered with component-based frameworks and clean design systems.
+* **Backend Engineering & API Development:** High-throughput, maintainable backend services, RESTful APIs, and relational data architecture built on ASP.NET Core and .NET.
+* **Mobile Application Development:** Practical, responsive mobile experiences built with cross-platform frameworks including Flutter.
+* **Enterprise & Management Systems:** Operational dashboards, administrative tools, and automated workflows that streamline organizational processes.
+* **Education Technology:** Academic software solutions, including admissions portals, computer-based exam hubs, attendance systems, and competency platforms.
+* **Authentication & System Integration:** Centralized Single Sign-On (SSO) gateways and token-based authentication services providing unified identity across platforms.
+* **Software Infrastructure and Deployment:** Deployment automation, database lifecycle management, containerization with Docker, and CI/CD workflows.
+
+---
+
+## Technology Ecosystem
+
+Our development work centers around verified, modern technologies:
+
+```text
+Backend Engineering       ::  C#  |  .NET  |  ASP.NET Core  |  REST APIs  |  Entity Framework Core
+Frontend Engineering      ::  React  |  Next.js  |  Angular  |  TypeScript  |  JavaScript  |  Vite  |  Tailwind CSS
+Mobile Development        ::  Flutter
+Databases & Persistence   ::  Microsoft SQL Server and relational database technologies
+Tools & Infrastructure    ::  Docker  |  Git  |  GitHub Actions  |  CI/CD  |  IIS
+```
+
+---
+
+## Engineering Principles
+
+* **Clean and maintainable code:** Writing clear, well-documented, and readable code designed for long-term maintainability.
+* **Scalable and well-structured architecture:** Establishing modular architectures with strict separation of concerns between presentation, business logic, and persistence layers.
+* **Security-conscious development:** Enforcing strict authentication, role-based access control, cryptographic password hashing, and input validation across systems.
+* **Data integrity and reliability:** Protecting relational consistency through schema constraints, structured database migrations, and transactional boundaries.
+* **Testing and validation:** Systematically validating functionality, data flows, and edge cases prior to deployment.
+* **Collaboration and knowledge sharing:** Fostering shared codebase ownership, constructive peer reviews, and collaborative problem-solving.
+* **Continuous improvement:** Continuously evolving technical standards and modernizing tooling to match changing organizational needs.
+
+---
+
+## Protecting Our Work
+
+Z-Spark Tech develops and maintains proprietary software systems. Source repositories and internal implementation details remain private to protect organizational intellectual property, security, and operational integrity.
+
+Our public profile showcases our capabilities, engineering disciplines, and project summaries without exposing private source code, internal endpoints, or confidential implementation details.
+
+---
+
+## Development Lifecycle
+
+We follow a structured six-stage development process to deliver consistent and dependable software:
+
+```
+┌─────────────────────┐     ┌─────────────────────┐     ┌─────────────────────┐
+│    1. Understand    │ ──> │    2. Plan and      │ ──> │   3. Engineer and   │
+│     the Problem     │     │ Design the Solution │     │      Implement      │
+└─────────────────────┘     └─────────────────────┘     └─────────────────────┘
+           │                                                           │
+           ▼                                                           ▼
+┌─────────────────────┐     ┌─────────────────────┐     ┌─────────────────────┐
+│   6. Maintain and   │ <── │    5. Deploy and    │ <── │    4. Test and      │
+│       Improve       │     │       Monitor       │     │      Validate       │
+└─────────────────────┘     └─────────────────────┘     └─────────────────────┘
+```
+
+1. **Understand the problem:** Analyze operational requirements and identify root user and institutional challenges.
+2. **Plan and design the solution:** Define data models, application architecture, API contracts, and user workflows.
+3. **Engineer and implement:** Develop robust frontend and backend solutions following clean coding practices.
+4. **Test and validate:** Verify functionality, data validation rules, and system behavior across user roles.
+5. **Deploy and monitor:** Publish systems through reliable hosting pipelines and monitor operational health.
+6. **Maintain and improve:** Iterate on user feedback, optimize system performance, and introduce refinements over time.
+
+---
+
+## Official Links & Contact
+
+* **Official Website:** [https://zspark.sewedy.com.eg/](https://zspark.sewedy.com.eg/)
+* **GitHub Organization:** [https://github.com/Z-Spark-Tech](https://github.com/Z-Spark-Tech)
+
+---
 
 <div align="center">
-  <img src="assets/divider.svg" width="100%" alt="Divider" />
-</div>
-
-<br />
-
-## Building the Future Together
-
-Every project is an opportunity to learn, innovate, and create something meaningful.
-
-At **Z-Spark Tech**, we don't just build software. We engineer solutions, develop ideas, and turn possibilities into reality.
-
-<br />
-
-<div align="center">
-
-  ### ⚡ **Think Beyond. Build Better. Spark Innovation.** ⚡
 
   <br />
 
+  <h3>⚡ Think Beyond. Build Better. Spark Innovation. ⚡</h3>
+
   <p>
-    <a href="https://zspark.sewedy.com.eg" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/Explore_Our_Work-Visit_Website-EE2033?style=for-the-badge&logo=internetexplorer&logoColor=white" alt="Visit Website" />
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://github.com/Z-Spark-Tech" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/Follow_Us-GitHub-161b22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
+    <em>Engineering dependable digital solutions, integrated systems, and modern software architectures.</em>
   </p>
 
   <br />
 
-  <img src="assets/divider.svg" width="100%" alt="Divider" />
-
-  <br />
-  <sub>© Z-Spark Tech · Engineering Ideas into Reality</sub>
+  <sub>© Z-Spark Tech · Software Engineering & Technology Organization · Egypt</sub>
 
 </div>
