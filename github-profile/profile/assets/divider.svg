@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 8" width="100%" height="8" fill="none">
+  <defs>
+    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#EE2033" stop-opacity="0" />
+      <stop offset="20%" stop-color="#EE2033" stop-opacity="0.35" />
+      <stop offset="50%" stop-color="#FF3B4E" stop-opacity="0.9" />
+      <stop offset="80%" stop-color="#EE2033" stop-opacity="0.35" />
+      <stop offset="100%" stop-color="#EE2033" stop-opacity="0" />
+    </linearGradient>
+    <linearGradient id="beamGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0" />
+      <stop offset="50%" stop-color="#FFFFFF" stop-opacity="0.9" />
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0" />
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="2" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Base gradient accent line -->
+  <line x1="40" y1="4" x2="1160" y2="4" stroke="url(#lineGrad)" stroke-width="2" stroke-linecap="round" />
+
+  <!-- Animated pulsating center spark -->
+  <polygon points="600,1 606,4 600,7 594,4" fill="#FF3B4E" filter="url(#glow)">
+    <animate attributeName="opacity" values="0.4;1;0.4" dur="2.4s" repeatCount="indefinite" />
+  </polygon>
+
+  <!-- Animated traveling light beam -->
+  <rect x="0" y="2.5" width="160" height="3" rx="1.5" fill="url(#beamGrad)" filter="url(#glow)">
+    <animate attributeName="x" values="20;1020;20" dur="4.5s" repeatCount="indefinite" />
+    <animate attributeName="opacity" values="0.1;0.85;0.1" dur="4.5s" repeatCount="indefinite" />
+  </rect>
+</svg>
