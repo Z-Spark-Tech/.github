@@ -5,14 +5,13 @@
     <img src="assets/profile-banner.gif" alt="Z-Spark Tech — Engineering Ideas Into Reality" width="100%" />
   </a>
 
-  <br /><br />
+  <!-- Animated Dynamic Typing Tagline -->
+  <a href="https://zspark.sewedy.com.eg" target="_blank" rel="noopener noreferrer">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1200&color=EE2033&center=true&vCenter=true&width=680&lines=Think+Beyond.+Build+Better.+Spark+Innovation.;Engineering+Solutions+%C2%B7+Developing+Ideas;Turning+Possibilities+Into+Reality;Software+Engineering+%C2%B7+Digital+Products+%C2%B7+Systems" alt="Z-Spark Tech — Dynamic Tagline" />
+  </a>
 
   <p align="center">
     <strong>SOFTWARE ENGINEERING &nbsp;·&nbsp; DIGITAL PRODUCTS &nbsp;·&nbsp; ENTERPRISE SYSTEMS</strong>
-  </p>
-
-  <p align="center">
-    <em>Think Beyond. Build Better. Spark Innovation.</em>
   </p>
 
   <p align="center">
